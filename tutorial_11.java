@@ -1,4 +1,4 @@
-public class Driver {
+class Driver {
     public static void main(String[] args) {
 
         int a = 0, b = 0, c = 0;

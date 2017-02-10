@@ -3,15 +3,7 @@ class Driver {
         
         // These all make a reference with the words "Hello !" in them.
         String msg1 = new String("Hello !");
-        String msg2 = new String(new char[] {
-            'H',
-            'e',
-            'l',
-            'l',
-            'o',
-            ' ',
-            '!'
-        });
+        String msg2 = new String(new char[] { 'H', 'e', 'l', 'l', 'o', ' ', '!' });
         String msg3 = "Hello !";
 
         System.out.println(msg1);

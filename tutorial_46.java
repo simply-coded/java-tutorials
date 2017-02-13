@@ -10,12 +10,14 @@ class Calculator {
             int result = intDivide( 18, nums[3] );
             System.out.println( "The answer is " + result );
         } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println( "This index is not available, or Cannot by zero." );
+            System.out.println( "This index is not available." );
         } catch (java.lang.ArithmeticException e) {
             System.out.println( "Cannot divide by zero." );
         } catch (Exception e) {            
             throw e;
-        }             
+        }   
+        
+        System.out.println("Continue on with the program.");
 
     }
     //

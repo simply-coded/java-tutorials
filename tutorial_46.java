@@ -13,7 +13,10 @@ class Calculator {
             System.out.println( "This index is not available." );
         } catch (java.lang.ArithmeticException e) {
             System.out.println( "Cannot divide by zero." );
-        } catch (Exception e) {            
+        } 
+        // this last catch is only useful if you do something besides just throw the error.        
+        catch (Exception e) {            
+            // do something here like log it out to a text file or something.
             throw e;
         }   
         

@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 
 class Files {
     public static void main(String[] args) throws java.io.IOException {
-        String filePath = "file.txt";
+        String filePath = "file.txt"; // or a full path - "c:/users/jeremy/desktop/java/file.txt"
         
         String nextLine = null;
 

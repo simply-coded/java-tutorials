@@ -34,7 +34,7 @@ class Driver {
     }
 
     static void greeting(String name, String last, int age) {
-        // name varaible here is different than the one in the main method.
+        // name varaible here is different than the one in the main method, but in this case is holding the same value.
         System.out.print("Welcome, " + name + " " + last);
         System.out.println(" of " + age + " years old.");
     }

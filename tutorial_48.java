@@ -36,7 +36,8 @@ class LogExample {
     }
     //
     public static void main(String[] args) throws java.io.IOException {
-        LogExample.setupLogger();               
+        // setup the logger
+        setupLogger();               
 
         // log some stuff
         logr.info("My first log");

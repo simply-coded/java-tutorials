@@ -133,7 +133,7 @@ public class ReadWriteProgram {
     public static void main(String[] args) throws IOException {
         
         Scanner scan = new Scanner(System.in);
-	    FileManager fm = new FileManager();
+	FileManager fm = new FileManager();
         
         fm.getFiles();
         ArrayList<String> fileLines = fm.splitIntoLines();

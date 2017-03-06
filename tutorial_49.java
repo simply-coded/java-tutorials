@@ -209,7 +209,7 @@ class FileManager {
         for (File file : files) {
             if ( 
                 file.isFile() &&
-                !(file.getName().substring(file.getName().lastIndexOf(".") + 1).equals("class"))
+                !(file.getName().substring(file.getName().lastIndexOf(".") + 1).equals("class")) //ignores files with .class extension
             ) {                
                 System.out.printf("'%s' ", file.getName());
             }

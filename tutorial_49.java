@@ -12,7 +12,7 @@ import java.io.*;
  * Nano timer for timing things.
  */
 class NanoTimer {
-    public long elapsed;
+    private long elapsed;
     //
     public void startTimer() {
         elapsed = System.nanoTime();

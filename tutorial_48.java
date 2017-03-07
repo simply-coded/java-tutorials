@@ -25,6 +25,7 @@ class LogExample {
         }
          /* 
          Different Levels in order.
+          OFF
           SEVERE
           WARNING
           INFO
@@ -32,6 +33,7 @@ class LogExample {
           FINE
           FINER
           FINEST
+          ALL
         */
     }
     //

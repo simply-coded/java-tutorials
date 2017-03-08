@@ -15,3 +15,11 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 **Click:**    Browse  
 **Explorer:** C:/Program Files/Java/jdk#.#.#_###/bin  
 **Click:**    Ok
+
+#### Test in Console
+```
+java -help
+```
+```
+javac -help
+```

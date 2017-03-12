@@ -3,7 +3,7 @@ The code from my YouTube series on "Java Tutorials (For Beginners)". Interested?
 
 ### Glossary
 
-![01](tutorial_01.md) - Introduction / Installation  
+[01](tutorial_01.md) - Introduction / Installation  
 02 - Structure / Main method  
 03 - Compile & Run  
 04 - Compile & Run via Notepad++  

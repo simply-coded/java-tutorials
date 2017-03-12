@@ -1,9 +1,9 @@
 # Java-Tutorials
-The code from my YouTube series on Java for beginners. Interested? [Watch Here!](https://www.youtube.com/playlist?list=PL72Es31dJnK7bCyERqbpgZwlMDf1N18Kv)
+The code from my YouTube series on "Java Tutorials (For Beginners)". Interested? [Watch Here!](https://www.youtube.com/playlist?list=PL72Es31dJnK7bCyERqbpgZwlMDf1N18Kv)
 
 ### Glossary
 
-01 - Introduction / Installation  
+![01](tutorial_01.md) - Introduction / Installation  
 02 - Structure / Main method  
 03 - Compile & Run  
 04 - Compile & Run via Notepad++  

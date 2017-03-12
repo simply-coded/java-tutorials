@@ -16,7 +16,7 @@ class PetStore {
         dane.setName("Spider");
 
         // breed() returns a Mammal so we have to store it as such.
-        // we'll deal with this shortcoming in the next video
+        // we'll deal with this shortcoming in a couple videos from now
         Mammal labPit = lab.breed(pit);
         
     }

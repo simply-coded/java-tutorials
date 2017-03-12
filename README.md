@@ -3,53 +3,53 @@ The code from my YouTube series on "Java Tutorials (For Beginners)". Interested?
 
 ### Glossary
 
-[01](tutorial_01.md) - Introduction / Installation  
-02 - Structure / Main method  
-03 - Compile & Run  
-04 - Compile & Run via Notepad++  
-05 - Variable Rules / Comments  
-06 - Primitive Data Types  
-07 - String class  
-08 - Arithmetic Operators  
-09 - Concatenation  
-10 - Change variable values  
-11 - Pre & Post Increments / Decrements  
-12 - Casting  
-13 - Escape Sequences ( \n \t \\ \" )  
-14 - Formatted Strings ( printf / format )  
-15 - Relational Operators  
-16 - Logical Operators ( && || ^ ! )  
-17 - If Statements  
-18 - Do & While Loops  
-19 - For & For Each Loops  
-20 - Command Line Arguments  
-21 - Scanner class ( next, nextLine, useDelimiter )  
-22 - Scanner class ( nextInt, hasNextInt )  
-23 - Switch case ( fall through, toLowerCase )  
-24 - Void methods ( multiple parameters )  
-25 - Methods ( return vs class variables )  
-26 - Method overloading  
-27 - Call a method from a method ( semi-optional arguments )  
-28 - Scope ( local vs global variables )  
-29 - Classes ( data fields, access modifiers )  
-30 - Classes ( constructor )  
-31 - Classes ( set & get methods )  
-32 - Generate a Random number ( with a range )  
-33 - Classes ( instance communication )  
-34 - Classes ( stopping void methods )  
-35 - Ternary Operator ( ? : ; )  
-36 - toString ( why it's automatically called in a print method )  
-37 - Static ( methods and variables )  
-38 - Extends ( super constructor )  
-39 - Are private members inherited? ( Child extends Parent )  
-40 - Overriding methods ( @Override annotation )  
-41 - Abstract Class ( instanceof )  
-42 - Interface ( implements )  
-43 - Interface ( variables, default, static, extends )  
-44 - Arrays ( declare, initialize, loop through )  
-45 - Arrays of Arrays ( multidimensional, 2d, ragged, jagged )  
-46 - try catch through ( Error / Exception (Checked vs Unchecked) )  
-47 - try-with-resources, finally, throws ( Read a text file )  
-48 - Logging ( FileHandler, ConsoleHandler, Levels )  
-49 - Read & Write to Files ( Reader, Writer, Buffered vs Not )  
-50 - Packaging ( package, compile, import )  
+[01 - Introduction / Installation](tutorial_01.md)  
+[02 - Structure / Main method](tutorial_02.java)  
+[03 - Compile & Run](tutorial_03.java)  
+[04 - Compile & Run via Notepad++](tutorial_04.md)  
+[05 - Variable Rules / Comments](tutorial_05.java)  
+[06 - Primitive Data Types](tutorial_06.java)  
+[07 - String class](tutorial_07.java)  
+[08 - Arithmetic Operators](tutorial_08.java)  
+[09 - Concatenation](tutorial_09.java)  
+[10 - Change variable values](tutorial_10.java)  
+[11 - Pre & Post Increments / Decrements](tutorial_11.java)  
+[12 - Casting](tutorial_12.java)  
+[13 - Escape Sequences ( \n \t \\ \" )](tutorial_13.java)  
+[14 - Formatted Strings ( printf / format )](tutorial_14.java)  
+[15 - Relational Operators](tutorial_15.java)  
+[16 - Logical Operators ( && || ^ ! )](tutorial_16.java)  
+[17 - If Statements](tutorial_17.java)  
+[18 - Do & While Loops](tutorial_18.java)  
+[19 - For & For Each Loops](tutorial_19.java)  
+[20 - Command Line Arguments](tutorial_20.java)  
+[21 - Scanner class ( next, nextLine, useDelimiter )](tutorial_21.java)  
+[22 - Scanner class ( nextInt, hasNextInt )](tutorial_22.java)  
+[23 - Switch case ( fall through, toLowerCase )](tutorial_23.java)  
+[24 - Void methods ( multiple parameters )](tutorial_24.java)  
+[25 - Methods ( return vs class variables )](tutorial_25.java)  
+[26 - Method overloading](tutorial_26.java)  
+[27 - Call a method from a method ( semi-optional arguments )](tutorial_27.java)  
+[28 - Scope ( local vs global variables )](tutorial_28.java)  
+[29 - Classes ( data fields, access modifiers )](tutorial_29.java)  
+[30 - Classes ( constructor )](tutorial_30.java)  
+[31 - Classes ( set & get methods )](tutorial_31.java)  
+[32 - Generate a Random number ( with a range )](tutorial_32.java)  
+[33 - Classes ( instance communication )](tutorial_33.java)  
+[34 - Classes ( stopping void methods )](tutorial_34.java)  
+[35 - Ternary Operator ( ? : ; )](tutorial_35.java)  
+[36 - toString ( why it's automatically called in a print method )](tutorial_36.java)
+[37 - Static ( methods and variables )](tutorial_37.java)  
+[38 - Extends ( super constructor )](tutorial_38.java)  
+[39 - Are private members inherited? ( Child extends Parent )](tutorial_39.md)  
+[40 - Overriding methods ( @Override annotation )](tutorial_40.java)  
+[41 - Abstract Class ( instanceof )](tutorial_41.java)  
+[42 - Interface ( implements )](tutorial_42.java)  
+[43 - Interface ( variables, default, static, extends )](tutorial_43.java)  
+[44 - Arrays ( declare, initialize, loop through )](tutorial_44.java)  
+[45 - Arrays of Arrays ( multidimensional, 2d, ragged, jagged )](tutorial_45.java)  
+[46 - try catch through ( Error / Exception (Checked vs Unchecked) )](tutorial_46.java)  
+[47 - try-with-resources, finally, throws ( Read a text file )](tutorial_47.java)  
+[48 - Logging ( FileHandler, ConsoleHandler, Levels )](tutorial_48.java)  
+[49 - Read & Write to Files ( Reader, Writer, Buffered vs Not )](tutorial_49.java)  
+[50 - Packaging ( package, compile, import )](tutorial_50.java)  

@@ -17,15 +17,26 @@ class PetStore {
 
         Dog labPit = lab.breed(pit);
 
-        // All return the same value
+        // All return the same value because the variable is a part of the class, not the instances.
         /*
-            This one only works if numberOfDogs is public
-            System.out.println( Dog.count );
+            // This only works if numberOfDogs is public and static
+            System.out.println( Dog.numberOfDogs );
+        
+            // These only work if numberOfDogs is public, and only return the same value if it is static as well          
+            System.out.println( lab.numberOfDogs );
+            System.out.println( pit.numberOfDogs );
+            System.out.println( dane.numberOfDogs );
+            System.out.println( labPit.numberOfDogs );
+        
+            // This doesn't work because we are trying to call this non-static method in a static way.
+            // Changing getNumberOfDogs() to static method would allow this to work.
+            System.out.println( Dog.getNumberOfDogs() );
         */
-        System.out.println( lab.count );
-        System.out.println( pit.count );
-        System.out.println( dane.count );
-        System.out.println( labPit.count );
+
+        System.out.println( lab.getNumberOfDogs() );
+        System.out.println( pit.getNumberOfDogs() );
+        System.out.println( dane.getNumberOfDogs() );
+        System.out.println( labPit.getNumberOfDogs() );
 
     }
         
@@ -116,7 +127,7 @@ class Dog {
         return health;
     }
     //
-    public getNumberOfDogs() {
+    public int getNumberOfDogs() {
         return numberOfDogs;
     }
     // 

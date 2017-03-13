@@ -1,11 +1,14 @@
 # Packages
 
 #### What / Why?
-> A package is a group of class files.  
+> A package is a group of class files.    
+
 
 > Packages help organize your code.  
 
+
 > Packages help keep your code unique from other people so you can resolve conflicts in your code if you have two or more classes with the same name.  
+
 
 #### Naming conventions
 ```java
@@ -21,26 +24,30 @@ package jre.companyname.packagename;
 
 #### Compiling packages
 
->Generic.
+>Generic.  
+
 ```
 javac -d c:/path/to/compile/to c:/path/of/source/file.java
 ```
 
->Generic, compile all java files in a directory.
+>Generic, compile all java files in a directory.  
+
 ```
 javac -d c:/path/to/compile/to c:/path/of/source/*.java
 ```
 
->Current directory = './' or simply just '.' so all these are the same.
+>Current directory = './' or simply just '.' so all these are the same.  
+
 ```
 javac -d ./ ./*.java 
 
 javac -d . ./*.java
 
 javac -d . *.java
-```
+```  
 
->Compiling from two sources.
+>Compiling from two sources.  
+
 ```
 javac -d ./ ./source1/*.java ./source2/*.java
 ```

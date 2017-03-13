@@ -64,7 +64,7 @@ java full.packagename.ClassName
 #### Windows trick to get a list of all your project's java files
 > c:/location/of/source/files/update-sources.cmd  
 
-```
+```cmd
 dir /s /b *.java > sources.txt
 ```
 

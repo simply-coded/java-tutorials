@@ -61,7 +61,7 @@ java -cp c:\location\of\packages full.packagename.ClassName
 java full.packagename.ClassName
 ```
 
-#### Windows trick to get a list of all your projects java files
+#### Windows trick to get a list of all your project's java files
 > c:/location/of/source/files/update-sources.cmd  
 
 ```

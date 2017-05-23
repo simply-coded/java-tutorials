@@ -1,5 +1,5 @@
 # Java-Tutorials
-The code from my YouTube series on "Java Tutorials (For Beginners)". Interested? [Watch Here!](https://www.youtube.com/playlist?list=PL72Es31dJnK7bCyERqbpgZwlMDf1N18Kv)
+The code from my YouTube series called "Java Tutorials (For Beginners)". Interested? [Watch Here!](https://www.youtube.com/playlist?list=PL72Es31dJnK7bCyERqbpgZwlMDf1N18Kv)
 
 ### Glossary
 

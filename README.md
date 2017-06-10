@@ -55,4 +55,5 @@ The code from my YouTube series called "Java Tutorials (For Beginners)". Interes
 [50 - Packaging ( package, compile, import, @argfiles )](code/tutorial_50)  
 [51 - Recursion ( factorial explanation )](code/tutorial_51.java)  
 [52 - Anonymous Classes ( effectively final )](code/tutorial_52.java)  
+[53 - Lambdas ( params -> expression )](code/tutorial_53.java)  
 

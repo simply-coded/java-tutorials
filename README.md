@@ -1,4 +1,4 @@
-# Java-Tutorials
+# Java Tutorials
 The code used in my video series. Interested? [Watch Here](https://www.youtube.com/playlist?list=PL72Es31dJnK7bCyERqbpgZwlMDf1N18Kv)!
 
 ### Glossary

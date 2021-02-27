@@ -47,6 +47,9 @@ class Driver {
             System.out.println("Tails!");
         }        
 
+        double decimalTest = rndRange(1, 5, 4);
+        System.out.println("Generated between 1 to 5 with 4 decimals is " + decimalTest);   
+
     }
 
     public static int rndRange(int start, int finish) {
@@ -57,6 +60,13 @@ class Driver {
     // always start at 1.
     public static int rndRange(int finish) {
         return rndRange(1, finish);
+    }
+    
+    public static double rndRange(int start, int finish, int decimals) {
+        if (decimals < 0) decimals = 0;
+        return (
+            (new Random().nextInt(finish * (int)Math.pow(10, decimals) + 1 - start) + start) / Math.pow(10, decimals)
+        );
     }
 
 }
